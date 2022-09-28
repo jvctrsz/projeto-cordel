@@ -60,7 +60,8 @@ section> p {
 }
 
 section.imagem{
-    box-shadow: inset 6px 6px 13px 0px #000;background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px #000;
+    background-attachment: fixed;
     background-size: cover;
 }
 
