@@ -66,12 +66,12 @@ section.imagem{
 }
 
 section#img01{
-    background-image: url(/css/images/background001.jpg);
+    background-image: url(./images/background001.jpg);
     background-position: right center;
 }
 
 section#img02{
-    background-image: url(/css/images/background002.jpg);
+    background-image: url(./images/background002.jpg);
     background-position: right center;
 }
 
